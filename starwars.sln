@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2523_별 찍기 -13", "2523
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2556_별 찍기 -14", "2556_별 찍기 -14\2556_별 찍기 -14.vcxproj", "{C0866273-778F-47EC-8217-FA4410B197F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10996_별 찍기 -21", "10996_별 찍기 -21\10996_별 찍기 -21.vcxproj", "{D6277669-A189-4774-9097-B647D62376D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{C0866273-778F-47EC-8217-FA4410B197F1}.Release|x64.Build.0 = Release|x64
 		{C0866273-778F-47EC-8217-FA4410B197F1}.Release|x86.ActiveCfg = Release|Win32
 		{C0866273-778F-47EC-8217-FA4410B197F1}.Release|x86.Build.0 = Release|Win32
+		{D6277669-A189-4774-9097-B647D62376D6}.Debug|x64.ActiveCfg = Debug|x64
+		{D6277669-A189-4774-9097-B647D62376D6}.Debug|x64.Build.0 = Debug|x64
+		{D6277669-A189-4774-9097-B647D62376D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6277669-A189-4774-9097-B647D62376D6}.Debug|x86.Build.0 = Debug|Win32
+		{D6277669-A189-4774-9097-B647D62376D6}.Release|x64.ActiveCfg = Release|x64
+		{D6277669-A189-4774-9097-B647D62376D6}.Release|x64.Build.0 = Release|x64
+		{D6277669-A189-4774-9097-B647D62376D6}.Release|x86.ActiveCfg = Release|Win32
+		{D6277669-A189-4774-9097-B647D62376D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
